@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joeeky
 - 👀 I’m interested in ...IT TECH
-- 🌱 I’m currently learning ...software engineering @ALX
+- 🌱 I’m currently learning ...software engineering student @ALX
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...ogheneroeky@gmail.com
 
